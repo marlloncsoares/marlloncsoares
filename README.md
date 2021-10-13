@@ -15,10 +15,25 @@
 <br />
 <br />
 <br />
+
 ### Confira minhas estatísticas no GitHub 
 <div align="center">
   <a href="https://github.com/marlloncsoares">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marlloncsoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlloncsoares&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+
+### Repositórisoo em destaque
+
+<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marlloncsoares&repo=urionlinejudge)](https://github.com/marlloncsoares/urionlinejudge)
+
+### Confira minhas linguagens mais utilizadas
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlloncsoares&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
