@@ -4,10 +4,10 @@
 
 <p align="left">
   <ul>
-    <li>👋 Olá, eu sou @marlloncsoares</li>
-    <li>👀 Estou interessado em JavaScript, Php, TypeScript e Python.</li>
-    <li>🌱 Atualmente, estou aprendendo arquitetura limpa e padrões de design para desenvolvimento web</li>
-    <li>💞️ Estou procurando colaborar em JavaScript, Php, TypeScript e Python.</li>
+    <li>👋 Olá, eu sou Marllon Soares <@marlloncsoares></li>
+    <li>👀 Estou interessado em compartilhar conhecimento sobre Tecnologia e linguagens de programação, como, por exemplo: JavaScript, Php, TypeScript e Python, entre outras.</li>
+    <li>🌱 Atualmente, estou aprendendo sobre arquitetura de software, padrões de projeto e boas práticas para desenvolvimento de software.</li>
+    <li>💞️ Estou procurando colaborar em JavaScript, Php, TypeScript, Python, Nodejs, Nestjs, Vuejs, Reactjs, SQL.</li>
     <li>Você pode me encontrar pelo meu site: www.marllonsoares.com.br</li>
    </ul>
 </p>
