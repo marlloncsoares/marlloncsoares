@@ -30,5 +30,5 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marlloncsoares&repo=urionlinejudge)](https://github.com/marlloncsoares/urionlinejudge)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marlloncsoares&repo=tools-js)](https://github.com/marlloncsoares/tools-js)
-  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marlloncsoares&repo=clean-code-studies)]https://github.com/marlloncsoares/clean-code-studies)  
 
